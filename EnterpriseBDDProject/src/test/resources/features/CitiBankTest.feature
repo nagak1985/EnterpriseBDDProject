@@ -6,6 +6,7 @@ Feature: Handling New Windows - Test
 # Testing - 1 Account - III Time
 #Testing - 2 Account - III Time
 #	Testing - 2 Account
+# Testing - 1 account
 @UI
 Scenario Outline: Verify User Able To Switch To Citi-Bank Login Page Application
 
